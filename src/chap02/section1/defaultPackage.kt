@@ -9,6 +9,5 @@ fun main() {
 
     println(PI)
     println(abs(-12.6))
-
     println("intro: $intro, num: $num")
 }
